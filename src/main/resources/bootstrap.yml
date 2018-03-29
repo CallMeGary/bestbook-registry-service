@@ -1,6 +1,7 @@
 spring:
   application:
     name: bestshop-registry-service
+
   cloud:
     config:
       fail-fast: true
